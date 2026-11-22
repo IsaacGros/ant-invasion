@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hm14_gros.iml" filepath="$PROJECT_DIR$/.idea/modules/hm14_gros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hm14_gros.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

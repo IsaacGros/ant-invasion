@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="High Score Menu">
+
+        <EditTextPreference
+            android:title="High Score"
+            android:key="highScore"
+            android:summary="High Score"
+            android:defaultValue="0"
+            android:selectable="false"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
